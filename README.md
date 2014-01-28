@@ -7,4 +7,4 @@ Online at https://github.com/mwmott/columbia-innovate
 
 Project site for J-School Innovate
 
-<em>Student leaders: Mike Mott and Bob Hackett.</em>
+<em>Project leaders: Mike Mott and Bob Hackett.</em>
